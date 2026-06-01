@@ -46,11 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamxkhushi1726-svg\&show_icons=true\&theme=tokyonight)
-
----
 
 ## 🚀 Projects & Work
 
