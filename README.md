@@ -1,6 +1,6 @@
 # Hi 👋 I'm Khushi
 
-### AIML Student @ IGDTUW | Building 100 Projects 
+### AIML Student @ IGDTUW | Building Projects 
 ---
 
 ## 🧑‍💻 About Me
