@@ -14,7 +14,6 @@
 
 ## 🎯 Goals
 
-* Build **100 projects** from beginner to advanced level
 * Become internship-ready in AI/ML + Software Development
 * Improve problem-solving and DSA skills
 * Participate in hackathons and open-source contributions
@@ -43,14 +42,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-
----
-
-
-## 🚀 Projects & Work
-
-* Project 01 → GitHub Profile README Builder (In Progress)
-* More projects coming soon as part of my **100 Projects Challenge**
 
 ---
 
